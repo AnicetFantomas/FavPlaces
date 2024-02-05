@@ -8,6 +8,17 @@ class PlacesList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder(); 
+    if (places.isEmpty) {
+      return const Center(
+        child: Text('No places yet, start adding some!'),
+      );
+    }
+    return ListView.builder(
+      itemCount: places.length,
+      itemBuilder: (context, index) => ListTile(
+        title: Text(places[index].title, style: Theme.of(context).textTheme.titleMedium!.copyWith(color: Theme.of(context).colorScheme.onBackground),),
+        
+      )
+    );
   }
 }

@@ -1,3 +1,4 @@
+import 'package:favorite_places/screens/places_list.dart';
 import 'package:flutter/material.dart';
 
 class PlacesScreen extends StatelessWidget {
@@ -16,11 +17,7 @@ class PlacesScreen extends StatelessWidget {
           ),
         ],
       ),
-      body:const Center(
-        child: Text(
-        'No places yet, start adding some!',
-      )
-      ),
+      body: const PlacesList(places: [])
     );
   }
 }
