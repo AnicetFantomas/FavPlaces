@@ -1,4 +1,5 @@
 import 'package:favorite_places/providers/user_places.dart';
+import 'package:favorite_places/widgets/image_input.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -12,9 +13,9 @@ class NewPlace extends ConsumerStatefulWidget {
 class _NewPlaceState extends ConsumerState<NewPlace> {
   final _titleController = TextEditingController();
 
-  void _savePlace () {
+  void _savePlace() {
     final enteredText = _titleController.text;
-    if (enteredText.isEmpty ) {
+    if (enteredText.isEmpty) {
       return;
     }
 
@@ -40,8 +41,13 @@ class _NewPlaceState extends ConsumerState<NewPlace> {
             TextField(
               decoration: const InputDecoration(labelText: 'Title'),
               controller: _titleController,
-              style: TextStyle(color: Theme.of(context).colorScheme.onBackground),
+              style:
+                  TextStyle(color: Theme.of(context).colorScheme.onBackground),
             ),
+            const SizedBox(
+              height: 16,
+            ),
+            ImageInput(),
             const SizedBox(
               height: 16,
             ),
