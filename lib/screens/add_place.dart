@@ -40,13 +40,13 @@ class _NewPlaceState extends ConsumerState<NewPlace> {
             TextField(
               decoration: const InputDecoration(labelText: 'Title'),
               controller: _titleController,
-              style: TextStyle(color: Theme.of(context).colorScheme.background),
+              style: TextStyle(color: Theme.of(context).colorScheme.onBackground),
             ),
             const SizedBox(
               height: 16,
             ),
             ElevatedButton.icon(
-                onPressed: () {},
+                onPressed: _savePlace,
                 icon: const Icon(Icons.add),
                 label: const Text('Add Place')),
           ]),
