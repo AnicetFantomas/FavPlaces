@@ -194,10 +194,34 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "js",
+      "rootUri": "file:///home/fantomas/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///home/fantomas/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "location",
+      "rootUri": "file:///home/fantomas/.pub-cache/hosted/pub.dev/location-5.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "location_platform_interface",
+      "rootUri": "file:///home/fantomas/.pub-cache/hosted/pub.dev/location_platform_interface-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "location_web",
+      "rootUri": "file:///home/fantomas/.pub-cache/hosted/pub.dev/location_web-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "matcher",
@@ -380,7 +404,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-07T11:58:12.704802Z",
+  "generated": "2024-02-07T16:48:56.681459Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
