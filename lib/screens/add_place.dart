@@ -56,7 +56,7 @@ class _NewPlaceState extends ConsumerState<NewPlace> {
               _selectedImage = image;
             },),
             const SizedBox(height:10),
-            LocationInput(),
+            const LocationInput(),
             const SizedBox(
               height: 16,
             ),
