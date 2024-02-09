@@ -3,6 +3,16 @@ application
 INJECTED from /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/android/app/src/main/AndroidManifest.xml:2:5-32:19
 MERGED from [:image_picker_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
 MERGED from [:image_picker_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-18:19
+MERGED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/fantomas/.gradle/caches/transforms-3/16246c046a4fa0a3333553599e217276/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/fantomas/.gradle/caches/transforms-3/16246c046a4fa0a3333553599e217276/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/fantomas/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/fantomas/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.window:window:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.10.1] /home/fantomas/.gradle/caches/transforms-3/889ce5bd12f1117e5357d5fcdb5e1305/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
@@ -26,13 +36,18 @@ MERGED from /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces
 MERGED from [:image_picker_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
 MERGED from [:flutter_plugin_android_lifecycle] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:path_provider_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/fantomas/.gradle/caches/transforms-3/16246c046a4fa0a3333553599e217276/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/fantomas/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/fantomas/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.7.2] /home/fantomas/.gradle/caches/transforms-3/b91d5b010bb7c1fbb9d04195e8906de4/transformed/jetified-activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] /home/fantomas/.gradle/caches/transforms-3/47085114ff49c80095b55db1e8d4ce63/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fantomas/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /home/fantomas/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window:window:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core-ktx:1.10.1] /home/fantomas/.gradle/caches/transforms-3/47085114ff49c80095b55db1e8d4ce63/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.customview:customview:1.0.0] /home/fantomas/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.10.1] /home/fantomas/.gradle/caches/transforms-3/889ce5bd12f1117e5357d5fcdb5e1305/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /home/fantomas/.gradle/caches/transforms-3/06f1f6593869a63768ed146cfbaa0e2a/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
@@ -76,10 +91,22 @@ MERGED from [:flutter_plugin_android_lifecycle] /home/fantomas/Desktop/Personnal
 MERGED from [:flutter_plugin_android_lifecycle] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:path_provider_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:path_provider_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/fantomas/.gradle/caches/transforms-3/16246c046a4fa0a3333553599e217276/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/fantomas/.gradle/caches/transforms-3/16246c046a4fa0a3333553599e217276/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/fantomas/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/fantomas/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.1.0] /home/fantomas/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/fantomas/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.7.2] /home/fantomas/.gradle/caches/transforms-3/b91d5b010bb7c1fbb9d04195e8906de4/transformed/jetified-activity-1.7.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.7.2] /home/fantomas/.gradle/caches/transforms-3/b91d5b010bb7c1fbb9d04195e8906de4/transformed/jetified-activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /home/fantomas/.gradle/caches/transforms-3/47085114ff49c80095b55db1e8d4ce63/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /home/fantomas/.gradle/caches/transforms-3/47085114ff49c80095b55db1e8d4ce63/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window-java:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fantomas/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
@@ -88,8 +115,6 @@ MERGED from [androidx.loader:loader:1.0.0] /home/fantomas/.gradle/caches/transfo
 MERGED from [androidx.loader:loader:1.0.0] /home/fantomas/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.10.1] /home/fantomas/.gradle/caches/transforms-3/47085114ff49c80095b55db1e8d4ce63/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] /home/fantomas/.gradle/caches/transforms-3/47085114ff49c80095b55db1e8d4ce63/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.customview:customview:1.0.0] /home/fantomas/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /home/fantomas/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.10.1] /home/fantomas/.gradle/caches/transforms-3/889ce5bd12f1117e5357d5fcdb5e1305/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
@@ -150,6 +175,38 @@ ADDED from [:image_picker_android] /home/fantomas/Desktop/Personnal Projects/Flu
 		ADDED from [:image_picker_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
 	android:name
 		ADDED from [:image_picker_android] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-17:56
+	android:enabled
+		ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-53
+	android:name
+		ADDED from [:location] /home/fantomas/Desktop/Personnal Projects/Flutter Projects/FavPlaces/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/fantomas/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/fantomas/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /home/fantomas/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required
