@@ -1,0 +1,30 @@
+# ninja log v5
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/libflutter_linux_gtk.so	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_engine.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_value.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/fl_view.h	a84e023a5d1a2ba7
+0	8122	0	/home/anicetfantomas/Desktop/Flutter learning/FavPlaces/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	a84e023a5d1a2ba7
+0	8122	0	flutter/_phony_	a84e023a5d1a2ba7
+8122	8745	1708963572560478788	CMakeFiles/favorite_places.dir/main.cc.o	ccc2a618b924e9f2
+8122	8746	1708963572560478788	CMakeFiles/favorite_places.dir/flutter/generated_plugin_registrant.cc.o	bb2c72adc548edec
+8123	8751	1708963572568478617	plugins/file_selector_linux/CMakeFiles/file_selector_linux_plugin.dir/file_selector_plugin.cc.o	3ff3375ac3e779ef
+8122	8780	1708963572596478018	CMakeFiles/favorite_places.dir/my_application.cc.o	20b55d365462b298
+8751	8829	1708963572644476990	plugins/file_selector_linux/libfile_selector_linux_plugin.so	5787557f304510ef
+8829	8935	1708963572752474677	intermediates_do_not_run/favorite_places	803100d0cb6941bd
+8935	9021	0	CMakeFiles/install.util	5d93d22dc053b8b

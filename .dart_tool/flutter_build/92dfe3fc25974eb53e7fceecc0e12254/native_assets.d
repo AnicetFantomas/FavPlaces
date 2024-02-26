@@ -1,0 +1,1 @@
+ /home/anicetfantomas/Desktop/Flutter\ learning/FavPlaces/.dart_tool/flutter_build/92dfe3fc25974eb53e7fceecc0e12254/native_assets.yaml: 
